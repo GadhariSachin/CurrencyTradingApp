@@ -1,4 +1,6 @@
-# trading
+# Crypto Currency Trading App
+
+![Snapshot](https://github.com/GadhariSachin/HTML-CSS/blob/master/trading.png)
 
 ## Project setup
 ```
